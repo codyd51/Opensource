@@ -1,6 +1,4 @@
-Grandma's Helper
+RemindMeAnywhere
 ==============
 
-For elderly with dementia, Alzheimer's, etc. Plop in whatever message you want. Targets iOS 7, but is compatible with everything above iOS 4 (I think), if you change the target.
-
-Disclaimer: Not an example of best coding practices. By far.
+Coded by Aehmlo, rest done by openro0t. Runs from iOS6-7. Must have activator installed.

@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = RemindmeAnywhere;
+	cell = PSLinkCell;
+	detail = RemindmeAnywhereListController;
+	icon = RemindmeAnywhere.png;
+	isController = 1;
+	label = RemindmeAnywhere;
+    };
+}

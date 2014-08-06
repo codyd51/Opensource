@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>entry</key>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>icon</key>
+			<string>RemindMeAnywhere.png</string>
+			<key>label</key>
+			<string>RemindMeAnywhere</string>
+		</dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>alignment</key>
+				<integer>1</integer>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+				<key>footerText</key>
+				<string>Assign via activator event. Type in above what you want to appear.
+
+
+Thank you Jontelang, DHowett and most importantly, Aehmlo for helping me create this tweak.</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSEditTextCell</string>
+				<key>default</key>
+				<string></string> 
+				<key>defaults</key>
+				<string>com.aehmlo.openro0t.RemindMeAnywhere</string>
+				<key>key</key>
+				<string>GreetingText</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>RemindMeAnywhere</string>
+	</dict>
+</plist>
+

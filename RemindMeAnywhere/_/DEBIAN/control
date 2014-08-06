@@ -1,0 +1,10 @@
+Package: com.aehmlo.openro0t.remindmeanywhere
+Name: RemindMeAnywhere 
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: RemindmeAnywhere, trigger and popup box with custom text anywhere via activator.
+Maintainer: Riley Durant & Aehmlo Lxaitn
+Author: Riley Durant & Aehmlo Lxaitn
+Section: Tweaks
+Version: 0.0.1-24
+Installed-Size: 84

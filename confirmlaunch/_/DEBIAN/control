@@ -1,0 +1,10 @@
+Package: openro0t
+Name: ConfirmLaunch
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: openro0t
+Author: openro0t
+Section: Tweaks
+Version: 0.0.1-4
+Installed-Size: 72

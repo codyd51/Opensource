@@ -1,9 +1,9 @@
-Package: com.cortexdevs.ShuffeLock
+Package: com.cortex.shuffle
 Name: ShuffleLock
-Depends: mobilesubstrate
+Depends: mobilesubstrate, libactivator
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Shuffle that silly "Slide to Unlock" text.
-Maintainer: Cortex Devs
-Author: Cortex Devs
+Description: Shuffle your slide to unlock text
+Maintainer: Phillip Tennen
+Author: Phillip Tennen
 Section: Tweaks

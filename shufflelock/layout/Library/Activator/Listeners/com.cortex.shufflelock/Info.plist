@@ -1,0 +1,5 @@
+{
+	title = "ShuffleLock";
+    description = "Shuffle your slide to unlock text!";
+    "compatible-modes" = ("springboard", "application", "lockscreen");
+}
